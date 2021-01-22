@@ -1,4 +1,5 @@
-Material  de estudo do curso de Python Mundo I do Curso em Vídeo.
+Study material from Python Course I of "Curso em Vídeo" company.
 
-Contém anotações das aulas, exemplos feitos pelo professor Guanabara e Desafios concluídos.
+It has notes from classes, examples from the course and exercises.
+
 
